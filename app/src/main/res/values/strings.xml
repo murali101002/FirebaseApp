@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">InClass10</string>
+    <string name="emailLogin">Email</string>
+    <string name="pwd_login">Password</string>
+    <string name="loginBtn">LOGIN</string>
+    <string name="createBtn">CREATE ACCOUNT</string>
+    <string name="fname">FullName</string>
+    <string name="emailSignUp">Email</string>
+    <string name="pwdSignUp">Password</string>
+    <string name="cancel">CANCEL</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="title_expense">Current Expense</string>
+    <string name="addExpense">Add an Expense</string>
+    <string name="expenseNameLbl">Expense Name</string>
+    <string name="categoryLbl">Category</string>
+    <string name="amountAdd">Amount</string>
+    <string name="expenseDetails">Expense Details</string>
+    <string name="nameShow">Name</string>
+    <string name="categoryShow">Category</string>
+    <string name="amountShow">Amount</string>
+    <string name="dateShow">Date</string>
+    <string name="close">CLOSE</string>
+    <string name="errorMsg">There is no expense to show, Please
+add your expenses from the menu</string>
+    <string name="logout">Logout</string>
+    <string-array name="categories">
+        <item>Select Category</item>
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Tips</item>
+        <item>Utilities</item>
+        <item>Others</item>
+    </string-array>
+</resources>
